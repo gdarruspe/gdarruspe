@@ -1,4 +1,6 @@
-## Hi there 👋
+## Gabriel Darruspe
+### Software Engineer
+### Student at Universidad de Palermo, Buenos Aires
 
 <!--
 **gdarruspe/gdarruspe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
